@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kyan148369
-- 👀 I’m interested in becoming a web3 dev
-- 🌱 I’m currently learning C and know a bit of solidity
-- 💞️ I’m looking to collaborate on interesting web3 projects!
-- 📫 How to reach me: Message https://t.me/KyanSSharma on telegram!
+- 👀 I’m interested in becoming a developer who has to apply maths
+- 🌱 I’m have learnt C and know a bit of solidity, brushing up on python now
+- 💞️ I’m looking to collaborate on interesting web3 and AI/Data analytics projects!
+- 📫 How to reach me: Email me at kyan.sharma_ug24@ashoka.edu.in
 
 <!---
 Kyan148369/Kyan148369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
