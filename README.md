@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kyan148369
-- 👀 I’m interested in becoming a developer who has to apply maths
-- 🌱 I’m have learnt C and know a bit of solidity, brushing up on python now
+- 👀 I’m interested in becoming a developer with an interest in applied maths
+- 🌱 I have learnt fundamentals of C and know a bit of solidity, brushing up on python now
 - 💞️ I’m looking to collaborate on interesting web3 and AI/Data analytics projects!
 - 📫 How to reach me: Email me at kyan.sharma_ug24@ashoka.edu.in
 
