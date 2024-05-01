@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kyan148369
 - 👀 I’m interested in becoming a developer and enjoy maths
-- 🌱 I have learned the fundamentals of Python and I'm focusing on Machine Learning currently
-- 💞️ I’m looking to collaborate on interesting Machine Learning and Web3/Data analytics projects!
+- 🌱 Ik python and I'm focusing on learning Rust currently
+- 💞️ I’m looking to collaborate on interesting Rust and Web3 projects!
 - 📫 How to reach me: Email me at kyan.sharma_ug24@ashoka.edu.in
 
 <!---
